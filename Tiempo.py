@@ -1,5 +1,4 @@
 #------------ Importacion de modulos ---------------#
-import calendar
 import time
 from datetime import datetime
 from gpiozero import RGBLED
