@@ -127,7 +127,7 @@ def Working():                    # jornada laboral
                 event_is_coming(tempori, Start_day)
                 office.off()  # luz apagada
                 rgb0.color = (0,0,0)
-                break
+                
             elif Error == 1:
                 print('!!!!!!!!!!!!!!!!!!!!! Error Temporal !!!!!!!!!!!!!!!!!!!!!!')
                 break
